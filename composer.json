@@ -1,5 +1,5 @@
 {
-    "name": "max-messenger-php/max-messenger",
+    "name": "dedomorozoff/max-messenger",
     "description": "PHP library for MAX Messenger API integration",
     "type": "library",
     "license": "MIT",
